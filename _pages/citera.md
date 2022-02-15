@@ -11,10 +11,34 @@ permalink: /citera/
 
 <a href="https://www.academia.edu/21693947/LEZIONE_I_-_INTRODUZIONE_E_STORIA_DELLA_MUSICA_ELETTROACUSTICA" target="_blank">DISPENSE</a>
 
+Opere citate nella dispensa:
+
+*K. Stockhausen: Komposition 1953 Nr. 2 (StudioII)*  
+
+*K. Stockhausen: Gesang der Jünglinge im Feuerofen*   
+
+*L. Berio: Thema - Omaggio a Joyce*  
+
+*B. Maderna: Musica su Due Dimensioni*   
+
+*J. Chowning: Turenas*  
+
+*P. Boulez: Anthèmes II*
+
+*F. Romitelli: An Index of Metals*
+
+*M. Lupone: Gran Cassa - Canto della Materia*
+
+---
+
+
+
+
+
 
 <!---
 
----
+
 
 • INCONTRO II - CENNI DI ACUSTICA E PSICOACUSTICA   
 <a href="https://www.academia.edu/22305517/LEZIONE_II_-_ACUSTICA_E_PSICOACUSTICA" target="_blank">DISPENSE</a>
