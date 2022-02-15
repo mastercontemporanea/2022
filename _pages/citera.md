@@ -11,9 +11,8 @@ permalink: /citera/
 
 <a href="https://www.academia.edu/21693947/LEZIONE_I_-_INTRODUZIONE_E_STORIA_DELLA_MUSICA_ELETTROACUSTICA" target="_blank">DISPENSE</a>
 
-VIDEOLEZIONE -
-<a href="https://www.youtube.com/watch?v=7Gwv6OgUwrE" target="_blank">LINK</a>
 
+<!---
 
 ---
 
