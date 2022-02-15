@@ -77,7 +77,7 @@ VIDEOLEZIONE -
 
 ---
 
--->
+
 
 
 • LEZIONE VII - LO SPAZIO SONORO (pt. I)
@@ -142,3 +142,7 @@ La Spettromorfologia (D. Smalley) - <a href="https://www.dropbox.com/s/92tuyrpu9
 Un breve tutorial:
 
 [LINK]({{ site.baseurl }}/sonic)
+
+
+
+-->
