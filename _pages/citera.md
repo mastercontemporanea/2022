@@ -7,7 +7,7 @@ permalink: /citera/
 ### Prof. Pasquale CITERA
 #### I SEMESTRE
 
-• LEZIONE I - INTRODUZIONE ALLA MUSICA ELETTROACUSTICA   
+• INCONTRO I - INTRODUZIONE ALLA MUSICA ELETTROACUSTICA   
 
 <a href="https://www.academia.edu/21693947/LEZIONE_I_-_INTRODUZIONE_E_STORIA_DELLA_MUSICA_ELETTROACUSTICA" target="_blank">DISPENSE</a>
 
@@ -33,22 +33,30 @@ Opere citate nella dispensa:
 
 
 
-
-
-
-<!---
-
-
-
 • INCONTRO II - CENNI DI ACUSTICA E PSICOACUSTICA   
 <a href="https://www.academia.edu/22305517/LEZIONE_II_-_ACUSTICA_E_PSICOACUSTICA" target="_blank">DISPENSE</a>
 
 VIDEOLEZIONE -
-<a href="https://www.youtube.com/watch?v=bDzALxAYAro" target="_blank">LINK</a>
+<a href="https://www.youtube.com/watch?v=0NfARfy7rwc" target="_blank">LINK</a>
+
+Opere citate nella lezione:
+
+*G. Grisey: Partiels*  
+
+*G. Grisey: Vortex Temporum*  
+
+*G. Netti: Rinascere Sirena*  
+
+*G. F. Haas: Konzert für Posaune und Orchester*
+
+*F. Romitelli: Professor Bad Trip - Lesson 1*    
+
+
+
 
 ---
 
-
+<!---
 
 • LEZIONE III - ELETTROACUSTICA
 
