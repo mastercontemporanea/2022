@@ -6,6 +6,21 @@ permalink: /corsi/
 
 
 
+
+#### Prof. Pasquale CITERA
+
+INTERPRETAZIONE DELLA MUSICA ELETTROACUSTICA
+
+[I SEMESTRE]({{ site.baseurl }}/citera)
+[II SEMESTRE]({{ site.baseurl }}/citera2nd)
+
+
+
+<!---
+
+
+
+
 #### Prof. Guido SALVETTI
 STORIA DELLA MUSICA CONTEMPORANEA
 
@@ -14,16 +29,6 @@ STORIA DELLA MUSICA CONTEMPORANEA
 
 
 
-#### Prof. Pasquale CITERA
-
-INTERPRETAZIONE DELLA MUSICA ELETTROACUSTICA
-
-[I SEMESTRE]({{ site.baseurl }}/citera)
-
-
-
-
-<!---
 
 [II SEMESTRE]({{ site.baseurl }}/citera2nd)
 
