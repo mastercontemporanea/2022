@@ -12,6 +12,8 @@ permalink: /corsi/
 INTERPRETAZIONE DELLA MUSICA ELETTROACUSTICA
 
 [I SEMESTRE]({{ site.baseurl }}/citera)
+
+
 [II SEMESTRE]({{ site.baseurl }}/citera2nd)
 
 

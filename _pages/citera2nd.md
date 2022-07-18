@@ -43,3 +43,7 @@ LINK VIDEOLEZIONE:
 • File audio di pianoforte (necessario per l'esempio nella patch) -
 
 <a href="https://www.dropbox.com/s/jom8r8n16ovbjjd/pianoforte_esempio.mp3?dl=0" target="_blank">DOWNLOAD</a>
+
+
+
+---
