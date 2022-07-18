@@ -38,7 +38,7 @@ LINK VIDEOLEZIONE:
 
 • Patch di Esempio per la realizzazione di una piccola composizione con rapporto ritmico-spettrale tra strumento acustico e blocchi di sinusoidi -
 
-<a href="https://www.dropbox.com/s/37klpwrtke2r3gq/TutorialLezione2.maxpat?dl=0" target="_blank">DOWNLOAD</a>
+<a href="https://www.dropbox.com/s/3ghuorr48bol42h/TutorialLezione2.maxpat?dl=0" target="_blank">DOWNLOAD</a>
 
 • File audio di pianoforte (necessario per l'esempio nella patch) -
 
