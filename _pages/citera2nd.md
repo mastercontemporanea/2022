@@ -81,3 +81,10 @@ Lezione di Stockhausen su Mantra:
 
 
 ---
+
+- Incontro IV: Registrazione e Lettura
+
+
+VIDEOLEZIONE:
+
+ <a href="https://www.youtube.com/watch?v=RdQYI4X_Nts" target="_blank">LINK</a>  
