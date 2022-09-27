@@ -57,7 +57,7 @@ VIDEOLEZIONE:
 
  <a href="https://youtu.be/vcF3L3SPwJc" target="_blank">LINK - RM</a>  
 
- • Patch tutorial sull'AM-RM -
+ • Patch sull'AM-RM -
 
  <a href="https://www.sphericaltechnologies.net/claudio/index.php/s/7xTRQAxF9M3yGWX" target="_blank">DOWNLOAD</a>
 
@@ -88,3 +88,14 @@ Lezione di Stockhausen su Mantra:
 VIDEOLEZIONE:
 
  <a href="https://www.youtube.com/watch?v=RdQYI4X_Nts" target="_blank">LINK</a>  
+
+
+ • Patch sui processi con memoria-
+
+ <a href="https://www.sphericaltechnologies.net/claudio/index.php/s/AnsxLtwiawRqimT" target="_blank">DOWNLOAD</a>
+
+
+
+ ---
+
+---
